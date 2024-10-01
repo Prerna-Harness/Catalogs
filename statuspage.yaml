@@ -4,6 +4,7 @@ metadata:
   name: statuspage-plugin
   annotations:
     statuspage.io/components: instance:mjqq4n49q2rw
+spec:
   type: service
   owner: "IDPAdmin"
   lifecycle: experimental
