@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: test-long-name
-  title: Custom Picker Test Long Long Long Name
+  title: Custom Picker Test Long Long Long Name (TESTING)
   description: Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. 
   tags:
     - cookicutter
