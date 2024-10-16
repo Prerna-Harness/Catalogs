@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: outputVar
   title: Output Variable Example
-  description: An template for the scaffolder that creates a Django service
+  description: An template for the scaffolder that creates a Django service An template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django serviceAn template for the scaffolder that creates a Django service
   tags:
     - django
     - harness
