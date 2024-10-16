@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: test-long-name
   title: Custom Picker Test Long Long Long Name
-  description: Cookiecutter example
+  description: Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. Very very long description. 
   tags:
     - cookicutter
     - harness
