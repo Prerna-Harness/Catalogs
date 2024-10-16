@@ -7,6 +7,8 @@ metadata:
   tags:
     - django
     - harness
+    - longlonglonglonglonglongtag
+    - longgggg-taggggg
 spec:
   owner: bhavya.sinha@harness.io
   type: service
